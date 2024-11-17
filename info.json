@@ -5,6 +5,7 @@
   "title": "Expensive Mode",
   "author": "thesixthroc",
   "description": "The official Expensive Mode changes from Factorio 1.1, with extensions to various mods (currently just Space Age).",
-  "homepage": "https://x.com/thesixthroc",
+  "homepage": "https://github.com/danielmartin0/Factorio-Expensive-Mode",
+  "contact": "factorio@danielgmartin.com",
   "dependencies": ["base >= 2.0.0", "? space-age >= 2.0.0"]
 }
