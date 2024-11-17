@@ -1,0 +1,6 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 17.11.2024
+  Features:
+    - Brings the original Expensive Mode back to Factorio.
+    - First version of a Space Age Expensive Mode.

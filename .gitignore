@@ -1,0 +1,6 @@
+.history/
+.git/
+stylua.toml
+.luacheckrc
+
+.DS_Store
