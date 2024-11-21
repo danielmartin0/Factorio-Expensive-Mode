@@ -328,7 +328,7 @@ end
 if mods["space-age"] then
 	data.raw.recipe["space-platform-foundation"].ingredients = {
 		{ type = "item", name = "steel-plate", amount = 40 }, -- from 20
-		{ type = "item", name = "copper-plate", amount = 40 }, -- from 20
+		{ type = "item", name = "copper-cable", amount = 40 }, -- from 20
 	}
 end
 
